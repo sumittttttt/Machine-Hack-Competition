@@ -4,7 +4,7 @@
 To analyse the temporal nature of tea prices in the training dataset and forecast the weekly average tea price for the 29 weeks mentioned in the test set.
 
 ### 2. Dataset
-Data is taken from [MachineHack Competition] (https://machinehack.com/hackathons/teastory_weekend_hackathon_edition_2_the_last_hacker_standing/overview)
+Data is taken from [MachineHack Competition](https://machinehack.com/hackathons/teastory_weekend_hackathon_edition_2_the_last_hacker_standing/overview)
 
 Train.csv — 544 rows x 15 columns (includes ‘Average’ as a target variable)
 
