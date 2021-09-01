@@ -8,7 +8,7 @@ We live in ambiguity and always need some information to just make a decision. D
 The problem statement is a classic study for decision-making and understanding the odds stacked against a particular situation.
 
 ### 2. Dataset
-Dataset taken from [MachineHack competition] (https://machinehack.com/hackathons/soccer_fever_weekend_hackathon_edition_2_the_last_hacker_standing/overview)
+Dataset taken from [MachineHack competition](https://machinehack.com/hackathons/soccer_fever_weekend_hackathon_edition_2_the_last_hacker_standing/overview)
 
 Train Dataset: 7443*21 Columns: 21 Target Column: Outcome
 
