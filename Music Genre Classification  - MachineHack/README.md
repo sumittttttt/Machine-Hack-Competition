@@ -12,7 +12,7 @@ Training dataset: 17,996 rows with 17 columns
 Test dataset: 7,713 rows with 16 columns
 
 ### 3. Evaluation
-The submission will be evaluated using the Log Loss metric. One can use sklearn.metric.log_loss to calculate the same
+The submission will be evaluated using the **Log Loss metric**. One can use **sklearn.metric.log_loss** to calculate the same.
 
 ### 4. Modeling
 After cleaning and imputing all the missing values in the dataset, I tried various Classification models, **GradientBosstingClassifier** performs well having **log loss of 1.27.**
